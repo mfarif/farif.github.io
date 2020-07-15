@@ -8,4 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-This is my home page.
+This is my home page...[Work in Progress]
+
