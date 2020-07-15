@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Science, Sir Syed University of Engineering and Technology, Pakistan.
+* B.S. in Computer Science, University of Engineering and Technology, Pakistan.
 * M.S. in Computational Logic, University of Vienna, Austria. 
 * M.S. in Computer Science, University of Dresden, Germany.
 * Ph.D in Computer Science, University College Dublin, Ireland. 
