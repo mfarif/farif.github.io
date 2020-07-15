@@ -11,11 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Science, Sir Syed University of Engineering and Technology, PK
-* M.S. in Computational Logic, University of Vienna, AT 
-* M.S. in Computer Science, University of Dresden, GE 
-* Ph.D in Computer Science, University College Dublin, IR  
-* PostDoc. in Computer Science, The University of Iowa, USA
+* B.S. in Computer Science, Sir Syed University of Engineering and Technology, Pakistan.
+* M.S. in Computational Logic, University of Vienna, Austria. 
+* M.S. in Computer Science, University of Dresden, Germany.
+* Ph.D in Computer Science, University College Dublin, Ireland. 
+* PostDoc. in Computer Science, The University of Iowa, United States.
 
 Work experience
 ======
