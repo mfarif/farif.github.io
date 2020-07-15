@@ -21,7 +21,7 @@ Work experience
 ======
 * Joined 2016: Security Researcher 
   * McAfee
-  * Duties included: Web Security
+  * Duties included: Web and Application Security Research
 
 * TSSG 2012: Research Engineer 
   * TSSG, Arch Labs
