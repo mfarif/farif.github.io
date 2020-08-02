@@ -84,12 +84,10 @@ author:
   avatar           : "profile.png"
   bio              : "PostDoc. at The University of Iowa"
   location         : "Iowa, USA."
-  employer         :
-  pubmed           : ""
+  employer         : "The University of Iowa"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=eMYK7T0AAAAJ"
   email            : "muhammad-arif@uiowa.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
   bitbucket        :
   codepen          :
   dribbble         :
@@ -99,7 +97,6 @@ author:
   linkedin         :
   twitter          : "replacethistwitterhandle"
   youtube          :
-  wikipedia        :
 
 
 # Reading Files
