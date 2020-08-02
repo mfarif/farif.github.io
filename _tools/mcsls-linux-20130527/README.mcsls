@@ -1,0 +1,107 @@
+### README --- 
+
+## Author:   jpms
+## Keywords: 
+## Copyright (c) 2013, Joao Marques-Silva
+
+*** Overview:
+MCSls is a tool for the extraction and enumeration of Minimal
+Correction Subsets (MCSes) of CNF formulas. The input formulas can be
+specified in standard DIMACS CNF format (.cnf) or weighted CNF format
+(.wcnf).
+
+
+*** MCS extraction algorithms:
+The following algorithms are implemented in MCSls (see references
+[1,2] and the references below for a detailed description of the
+algorithms):
+1. CLD: clause D based approach (see [1]).
+2. EFD: enhanced FastDiag (see [1]).
+3. BFD: basic FastDiag (see [4]).
+4. ELS: enhanced linear search (see [1]).
+5. BLS: basic linear search (see [3,6]).
+6. PRG: progression algorithm for MCSes (see [2]), currently disabled.
+7. ...: other algorithms may be included in later releases.
+Use option '-alg ALG' to specify the algorithm to be used. Currently,
+ALG is one of bls, els, cld, bfd, efd.
+
+
+*** MCS enumeration:
+By default, mcsls enumerates all MCSes. This corresponds to setting
+'-num 0'. Option '-num NNN' can be used to indicate how many MCSes are
+to be computed.
+
+
+*** Disjoint unsatisfiable cores:
+Disjoint unsatisfiable cores (see [1] below) are computed by default.
+To disable this feature use option '-nuc'.
+
+
+*** Disjoint MCSes:
+In some contexts, it is useful to compute disjoint MCSes. Option
+'-dis' enables the enumeration of disjoint MCSes.
+
+
+*** Approximating MaxSAT:
+mcsls can be used to compute approximate MaxSAT solutions of (partial)
+MaxSAT with option '-mxapp'. mcsls can also be used on weighted MaxSAT
+instances, but weights are not exploited to improve the computed
+approximation. This is very easy to do, and should be available in an 
+upcoming release.
+
+
+*** Additional options/features:
+-nagr: do not aggregate clauses in unsatisfiable cores
+-agr NNN: aggregate clauses in disjoint unsatisfiable cores in NNN chunks
+-wapp: output computed MCS approximations
+-nw: do not write MCSes
+-st: output stats
+
+
+*** Bugs:
+mcsls is an evolving prototype, and there may be bugs. To report a bug,
+send email to the contact author, indicating a description of the bug,
+including the input file, as well as information about the release
+used. To get this information, execute the command './mcsls2 -h', and
+copy the last line.
+
+
+*** References:
+References [1,2] summarize the main algorithms currently implemented
+in MCSls. References [3,4,5,6,7,8] describe earlier work, upon which
+MCSls is based.
+
+[1] J. Marques-Silva, F. Heras, M. Janota, A. Previti, A. Belov: On
+Computing Minimal Correction Subsets. IJCAI 2013.
+
+[2] J. Marques-Silva, M. Janota, A. Belov: Minimal Sets over Monotone 
+Predicates in Boolean Formulae. CAV 2013.
+
+[3] A. Nohrer, A. Biere, A. Egyed: Managing SAT inconsistencies with
+HUMUS. VaMoS 2012: 83-91
+
+[4] A. Felfernig, M. Schubert, C. Zehentner: An efficient diagnosis
+algorithm for inconsistent constraint sets. AI EDAM 26(1): 53-62
+(2012)
+
+[5] M. Liffiton, K. Sakallah: Algorithms for Computing Minimal
+Unsatisfiable Subsets of Constraints. J. Autom. Reasoning 40(1): 1-33
+(2008)
+
+[6] J. Bailey, P. Stuckey: Discovery of Minimal Unsatisfiable Subsets
+of Constraints Using Hitting Set Dualization. PADL 2005: 174-186
+
+[7] E. Birnbaum, E. Lozinskii: Consistent subsets of inconsistent
+systems: structure and behaviour. J. Exp. Theor. Artif. Intell. 15(1):
+25-46 (2003)
+
+[8] R. Reiter: A Theory of Diagnosis from First Principles. Artif.
+Intell. 32(1): 57-95 (1987)
+
+
+*** Credits:
+Developer and maintainer: Joao Marques-Silva
+Contributors: F. Heras, M. Janota, A. Previti, A. Belov
+
+
+### README ends here

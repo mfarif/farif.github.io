@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "M. Fareed Arif"
   avatar           : "profile.png"
-  bio              : "Postdoctoral research The University of Iowa."
+  bio              : "The University of Iowa."
   location         : "Iowa, USA."
   employer         :
   pubmed           : ""
@@ -181,7 +181,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  Tools:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -227,10 +227,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _tool
   - scope:
       path: ""
-      type: portfolio
+      type: tools
     values:
       layout: single
       author_profile: true
