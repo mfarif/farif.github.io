@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "M. Fareed Arif"
   avatar           : "profile.png"
-  bio              : "The University of Iowa."
+  bio              : "Postdoctoral Researhc at The University of Iowa"
   location         : "Iowa, USA."
   employer         :
   pubmed           : ""
@@ -93,26 +93,11 @@ author:
   bitbucket        :
   codepen          :
   dribbble         :
-  flickr           :
-  facebook         :
   foursquare       :
   github           : "farif"
-  google_plus      :
   keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
   twitter          : "replacethistwitterhandle"
-  vine             :
-  weibo            :
-  xing             :
   youtube          :
   wikipedia        :
 
