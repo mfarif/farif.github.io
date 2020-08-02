@@ -19,12 +19,12 @@ Education
 
 Work experience
 ======
-* Joined 2016: Security Researcher 
-  * McAfee
+* McAfee 2016: Security Researcher 
+  * McAfee Research Labs.
   * Duties included: Web and Application Security Research
 
 * TSSG 2012: Research Engineer 
-  * TSSG, Arch Labs
+  * TSSG, Arch Labs.
   * Duties included: EU.FP-7 funded projects.
   
 Skills
@@ -56,4 +56,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* None
