@@ -11,14 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Science, University of Engineering and Technology, Pakistan.
-* M.S. in Computational Logic, University of Vienna, Austria. 
-* M.S. in Computer Science, University of Dresden, Germany.
-* Ph.D in Computer Science, University College Dublin, Ireland. 
-* PostDoc. in Computer Science, The University of Iowa, United States.
+* PhD in CS, University College Dublin, 2016
+* MS in Logic and CS, TU Wien and TU Dresden, 2011
+* BS in CS, Sir Syed University of Engineering and Technology, 2005
+
+Research Interests
+======
+*Satisfiability Theory (SAT)*, *Computer Security*, *Satisfiability Modulo Theories (SMT)*, *Software Model Checking* 
 
 Work experience
 ======
+* PostDoc: 
+  * The University of Iowa
+  * 
+
 * McAfee 2016: Security Researcher 
   * McAfee Research Labs.
   * Duties included: Web and Application Security Research
