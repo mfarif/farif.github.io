@@ -10,6 +10,8 @@ redirect_from:
 {% include base_path %}
 ![](./images/profile.png =100x200)
 
+![image info](./images/profile.png)
+
 Education
 ======
 * PhD in CS, University College Dublin, 2016
