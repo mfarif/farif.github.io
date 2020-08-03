@@ -17,7 +17,10 @@ Education
 
 Research Interests
 ======
-*Satisfiability Theory (SAT)*, *Computer Security*, *Satisfiability Modulo Theories (SMT)*, *Software Model Checking* 
+*(Satisfiability Theory)[https://en.wikipedia.org/wiki/Boolean_satisfiability_problem]*, 
+*(Computer Security)[https://en.wikipedia.org/wiki/Computer_security]*, 
+*(Satisfiability Modulo Theories)[https://en.wikipedia.org/wiki/Satisfiability_modulo_theories]*, 
+*(Software Model Checking)[https://en.wikipedia.org/wiki/Model_checking]* 
 
 Work experience
 ======
