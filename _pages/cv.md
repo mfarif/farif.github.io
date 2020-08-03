@@ -20,13 +20,8 @@ Education
 
 Research Interests
 ======
-*[Satisfiability Theory](https://en.wikipedia.org/wiki/Boolean_satisfiability_problem)*, 
-*[Computer Security]*, 
-*[Satisfiability Modulo Theories]*, 
-
-Research Interests
-======
-*Logic and Formal Methods*, *(SAT)(https://en.wikipedia.org/wiki/Boolean_satisfiability_problem)/[SMT](https://en.wikipedia.org/wiki/Satisfiability_modulo_theories)*, *[Computer Security](https://en.wikipedia.org/wiki/Computer_security)*,  *[Description Logic](https://en.wikipedia.org/wiki/Description_logic)*, *[Software Verification](https://en.wikipedia.org/wiki/Model_checking)* 
+*[Logic and Formal Methods](https://formalmethods.wikia.org/wiki/Formal_methods)*, 
+*[SAT](https://en.wikipedia.org/wiki/Boolean_satisfiability_problem)/[SMT](https://en.wikipedia.org/wiki/Satisfiability_modulo_theories)*, *[Computer Security](https://en.wikipedia.org/wiki/Computer_security)*,  *[Description Logic](https://en.wikipedia.org/wiki/Description_logic)*, *[Software Verification](https://en.wikipedia.org/wiki/Model_checking)*, *[AI](https://en.wikipedia.org/wiki/Artificial_intelligence)* 
 
 
 Work experience
