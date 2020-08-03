@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Biography"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+![](./images/profile.png =100x200)
 
 Education
 ======
@@ -18,9 +19,13 @@ Education
 Research Interests
 ======
 *[Satisfiability Theory](https://en.wikipedia.org/wiki/Boolean_satisfiability_problem)*, 
-*[Computer Security](https://en.wikipedia.org/wiki/Computer_security)*, 
-*[Satisfiability Modulo Theories](https://en.wikipedia.org/wiki/Satisfiability_modulo_theories)*, 
-*[Software Model Checking](https://en.wikipedia.org/wiki/Model_checking)* 
+*[Computer Security]*, 
+*[Satisfiability Modulo Theories]*, 
+
+Research Interests
+======
+*Logic and Formal Methods*, *(SAT)(https://en.wikipedia.org/wiki/Boolean_satisfiability_problem)/[SMT](https://en.wikipedia.org/wiki/Satisfiability_modulo_theories)*, *[Computer Security](https://en.wikipedia.org/wiki/Computer_security)*,  *[Description Logic](https://en.wikipedia.org/wiki/Description_logic)*, *[Software Verification](https://en.wikipedia.org/wiki/Model_checking)* 
+
 
 Work experience
 ======
