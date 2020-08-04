@@ -8,9 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-![](./images/profile.png =100x200)
-
-![image info](./images/profile.png)
 
 Education
 ======
@@ -20,15 +17,20 @@ Education
 
 Research Interests
 ======
+{% comment %}
 *[Logic and Formal Methods](https://formalmethods.wikia.org/wiki/Formal_methods)*, 
-*[SAT](https://en.wikipedia.org/wiki/Boolean_satisfiability_problem)/[SMT](https://en.wikipedia.org/wiki/Satisfiability_modulo_theories)*, *[Computer Security](https://en.wikipedia.org/wiki/Computer_security)*,  *[Description Logic](https://en.wikipedia.org/wiki/Description_logic)*, *[Software Verification](https://en.wikipedia.org/wiki/Model_checking)*, *[AI](https://en.wikipedia.org/wiki/Artificial_intelligence)* 
-
+{% comment %}
+*[SAT](https://en.wikipedia.org/wiki/Boolean_satisfiability_problem)/[SMT](https://en.wikipedia.org/wiki/Satisfiability_modulo_theories)*, 
+*[Computer Security](https://en.wikipedia.org/wiki/Computer_security)*,  
+*[Description Logic](https://en.wikipedia.org/wiki/Description_logic)*,
+*[Software Verification](https://en.wikipedia.org/wiki/Model_checking)*, and
+*[AI](https://en.wikipedia.org/wiki/Artificial_intelligence)* 
 
 Work experience
 ======
 * PostDoc: 
   * The University of Iowa
-  * 
+  * Duties included: DARPA projects
 
 * McAfee 2016: Security Researcher 
   * McAfee Research Labs.
