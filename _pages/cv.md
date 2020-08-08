@@ -11,21 +11,17 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* PhD in CS, University College Dublin, 2016
+* MS in Logic and CS, TU Wien and TU Dresden, 2011
+* BS in CS, Sir Syed University of Engineering and Technology, 2005
 
-Work experience
+Previous Work Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* McAfee Labs: Security Researcher 
+  * Duties included: Web and Application Security Research
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* TSSG ArcLabs: Research Engineer 
+  * Duties included: EU funded FP-7 research projects.
   
 Publications
 ======
@@ -33,9 +29,10 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-tools
+Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
+  
   

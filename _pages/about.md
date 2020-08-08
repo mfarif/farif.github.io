@@ -15,14 +15,3 @@ at The University of Iowa and advised by
 and 
 [Omar Haider Chaudry](https://homepage.cs.uiowa.edu/~comarhaider/). Previously, I worked as a Security Researcher in Mcafee Research Labs. I received a Ph.D. from University College Dublin (UCD), under the supervision of 
 [Joao Marques-Silva](https://jpmarquessilva.github.io/).
-
-Research Interests
-======
-{% comment %}
-*[Logic and Formal Methods](https://formalmethods.wikia.org/wiki/Formal_methods)*, 
-{% comment %}
-*[SAT](https://en.wikipedia.org/wiki/Boolean_satisfiability_problem)/[SMT](https://en.wikipedia.org/wiki/Satisfiability_modulo_theories)*, 
-*[Computer Security](https://en.wikipedia.org/wiki/Computer_security)*,  
-*[Description Logic](https://en.wikipedia.org/wiki/Description_logic)*,
-*[Software Verification](https://en.wikipedia.org/wiki/Model_checking)*, and
-*[AI](https://en.wikipedia.org/wiki/Artificial_intelligence)* 
