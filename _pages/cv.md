@@ -37,7 +37,6 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-  
 Service and leadership
 ======
 * None
