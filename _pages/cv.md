@@ -11,7 +11,8 @@ redirect_from:
 
 Education
 ======
-* PhD in CS, University College Dublin, 2016
+
+* ![Alt](images/book.png "Title") PhD in CS, University College Dublin, 2016
 * MS in Logic and CS, TU Wien and TU Dresden, 2011
 * BS in CS, Sir Syed University of Engineering and Technology, 2005
 
