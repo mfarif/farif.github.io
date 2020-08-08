@@ -1,20 +1,10 @@
 ---
-title: "Teaching experience 2"
+title: "SySLite (Syntax-Guided Past-time LTL Synthesizer & Enumerator)"
 collection: teaching
-type: "Workshop"
+type: "DARPA Funded Project"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+SysLite makes use of decision and synthesis procedures (\ie `SAT`, `SMT`, and `SyGuS`) to learn `Pastime LTL formulas` from a finite set of example traces. These example traces describe the intended and unintended behavior in terms of positive and negative traces that can come from various application domains (i.e, security policy logs, protocols, and execution of a system or design model, among others). 
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+[Tool Link](https://github.com/CLC-UIowa/SySLite)
