@@ -23,3 +23,6 @@ Research Interests
 [SMT](https://en.wikipedia.org/wiki/Satisfiability_modulo_theories), 
 [Computer Security](https://en.wikipedia.org/wiki/Computer_security),  
 [Software Verification](https://en.wikipedia.org/wiki/Model_checking)
+
+Linked logo: [![alt text](/images/book.png)]
+(http://wordpress.com/ "Title")
