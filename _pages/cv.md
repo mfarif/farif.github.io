@@ -15,39 +15,15 @@ Education
 * MS in Logic and CS, TU Wien and TU Dresden, 2011
 * BS in CS, Sir Syed University of Engineering and Technology, 2005
 
-Research Interests
-======
-{% comment %}
-*[Logic and Formal Methods](https://formalmethods.wikia.org/wiki/Formal_methods)*, 
-{% comment %}
-*[SAT](https://en.wikipedia.org/wiki/Boolean_satisfiability_problem)/[SMT](https://en.wikipedia.org/wiki/Satisfiability_modulo_theories)*, 
-*[Computer Security](https://en.wikipedia.org/wiki/Computer_security)*,  
-*[Description Logic](https://en.wikipedia.org/wiki/Description_logic)*,
-*[Software Verification](https://en.wikipedia.org/wiki/Model_checking)*, and
-*[AI](https://en.wikipedia.org/wiki/Artificial_intelligence)* 
 
-Work experience
+Previous Work experience
 ======
-* PostDoc: 
-  * The University of Iowa
-  * Duties included: DARPA projects
-
-* McAfee 2016: Security Researcher 
-  * McAfee Research Labs.
+* McAfee Labs: Security Researcher 
   * Duties included: Web and Application Security Research
 
-* TSSG 2012: Research Engineer 
-  * TSSG, Arch Labs.
-  * Duties included: EU.FP-7 funded projects.
+* TSSG ArcLabs: Research Engineer 
+  * Duties included: EU funded FP-7 research projects.
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -61,11 +37,6 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Service and leadership
 ======
