@@ -15,8 +15,7 @@ Education
 * MS in Logic and CS, TU Wien and TU Dresden, 2011
 * BS in CS, Sir Syed University of Engineering and Technology, 2005
 
-
-Previous Work experience
+Previous Work Experience
 ======
 * McAfee Labs: Security Researcher 
   * Duties included: Web and Application Security Research
@@ -24,7 +23,6 @@ Previous Work experience
 * TSSG ArcLabs: Research Engineer 
   * Duties included: EU funded FP-7 research projects.
   
-
 Publications
 ======
   <ul>{% for post in site.publications %}
