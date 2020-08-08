@@ -12,7 +12,10 @@ redirect_from:
 Education
 ======
 
-* ![Alt](images/book.png "Title") PhD in CS, University College Dublin, 2016
+[![alt text](images/cap.png)]
+(http://wordpress.com/ "Title")
+
+* PhD in CS, University College Dublin, 2016
 * MS in Logic and CS, TU Wien and TU Dresden, 2011
 * BS in CS, Sir Syed University of Engineering and Technology, 2005
 
