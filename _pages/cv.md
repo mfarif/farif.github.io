@@ -38,3 +38,5 @@ Talks
 Service and leadership
 ======
 * None
+
+{% base_path %}
