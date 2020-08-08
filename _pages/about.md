@@ -18,8 +18,7 @@ and
 
 Research Interests
 ======
-* ![alt text][images/book.png]{height=20px width=20px}
-* ![Alt](images/book.png "Title") [Logic and Formal Methods](https://formalmethods.wikia.org/wiki/Formal_methods), 
+* [Logic and Formal Methods](https://formalmethods.wikia.org/wiki/Formal_methods), 
 * [SAT](https://en.wikipedia.org/wiki/Boolean_satisfiability_problem),
 * [SMT](https://en.wikipedia.org/wiki/Satisfiability_modulo_theories), 
 * [Computer Security](https://en.wikipedia.org/wiki/Computer_security),  
