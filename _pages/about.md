@@ -18,9 +18,8 @@ and
 
 Research Interests
 ======
-[Logic and Formal Methods](https://formalmethods.wikia.org/wiki/Formal_methods), 
-[SAT](https://en.wikipedia.org/wiki/Boolean_satisfiability_problem)/[SMT](https://en.wikipedia.org/wiki/Satisfiability_modulo_theories), 
+![Alt](images/book.png "Title") [Logic and Formal Methods](https://formalmethods.wikia.org/wiki/Formal_methods), 
+[SAT](https://en.wikipedia.org/wiki/Boolean_satisfiability_problem),
+[SMT](https://en.wikipedia.org/wiki/Satisfiability_modulo_theories), 
 [Computer Security](https://en.wikipedia.org/wiki/Computer_security),  
-[Description Logic](https://en.wikipedia.org/wiki/Description_logic),
-[Software Verification](https://en.wikipedia.org/wiki/Model_checking),and
-[AI](https://en.wikipedia.org/wiki/Artificial_intelligence) 
+[Software Verification](https://en.wikipedia.org/wiki/Model_checking)
