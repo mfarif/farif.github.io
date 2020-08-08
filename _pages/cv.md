@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Biography"
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,17 +11,21 @@ redirect_from:
 
 Education
 ======
-* PhD in CS, University College Dublin, 2016
-* MS in Logic and CS, TU Wien and TU Dresden, 2011
-* BS in CS, Sir Syed University of Engineering and Technology, 2005
+* B.S. in GitHub, GitHub University, 2012
+* M.S. in Jekyll, GitHub University, 2014
+* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
-Previous Work Experience
+Work experience
 ======
-* McAfee Labs: Security Researcher 
-  * Duties included: Web and Application Security Research
+* Summer 2015: Research Assistant
+  * Github University
+  * Duties included: Tagging issues
+  * Supervisor: Professor Git
 
-* TSSG ArcLabs: Research Engineer 
-  * Duties included: EU funded FP-7 research projects.
+* Fall 2015: Research Assistant
+  * Github University
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Hub
   
 Publications
 ======
@@ -29,14 +33,9 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+tools
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* None
-
-{% base_path %}
