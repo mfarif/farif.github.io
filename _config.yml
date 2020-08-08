@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "M. Fareed Arif"
   avatar           : "profile.png"
-  bio              : "PostDoc. at The University of Iowa"
-  location         : "Iowa, USA."
-  employer         : "The University of Iowa"
+  bio              : "PostDoc "
+#  location         : "Iowa, USA."
+  employer         : "[The University of Iowa](http://clc.cs.uiowa.edu/site/people.shtml)"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=eMYK7T0AAAAJ"
   email            : "muhammad-arif@uiowa.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
