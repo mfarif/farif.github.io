@@ -54,6 +54,9 @@
     </p>
     {% endif %}
 
+    {% if post.date %}<p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i>
+      {{ post.date | date: '%B %d, %Y' }}</p>{% endif %}
+
     {% if post.citation and post.paperurl %}
     <p>Recommended citation: {{ post.citation }} <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a></p>
     {% elsif post.citation %}
