@@ -1,7 +1,7 @@
 ---
 title: "SySLite (Syntax-Guided Past-time LTL Synthesizer & Enumerator)"
 collection: teaching
-type: "DARPA Funded Project"
+type: "Funding Agency: Defense Advanced Research Projects Agency(DARPA)"
 permalink: /teaching/2015-spring-teaching-1
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "VERDICT- (Cyber Resiliency Verifier)"
 collection: teaching
-type: "DARPA Funded Project"
+type: "Funding Agency: Defense Advanced Research Projects Agency(DARPA)"
 permalink: /teaching/2014-spring-teaching-1
 ---
 
