@@ -1,7 +1,8 @@
 ---
-title: "BEACON"
+project: "BEACON"
+tool: "Debugging EL+"
 collection: teaching
-type: "Funding Agency: Science Foundation Ireland"
+agency: "Science Foundation Ireland"
 permalink: /teaching/2015-spring-teaching-1
 ---
 
