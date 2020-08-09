@@ -6,7 +6,7 @@ excerpt: 'M. Fareed Arif &quot;Logic Programming Approach for Concurrent Reachab
 date: 2015-09-21 
 venue: 'TU Dresden / TU Wien, MSc. Thesis'
 paperurl: 'http://farif.github.io/files/papers/Farif-Msc-Thesis-Report-11.pdf'
-citation: 'M. Fareed Arif &quot;Logic Programming Approach for Concurrent Reachability Games&quot;<i>MSc. Thesis</i>'
+citation: 'M. Fareed Arif &quot;Logic Programming Approach for Concurrent Reachability Games&quot; <i>MSc. Thesis 2011</i>'
 ---
 
 <a href='http://farif.github.io/files/papers/Farif-Msc-Thesis-Report-11.pdf'>Download Paper</a>
