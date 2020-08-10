@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "tools"
+title: "Tools"
 permalink: /tools/
 author_profile: true
 ---
