@@ -1,8 +1,9 @@
 ---
 title: "Pasttime LTL Monitoring"
+tool : "pltl"
 collection: tools
 permalink: /tools/2020-runtime
-citation: ""
+funding: "None"
 ---
 
 Lustre encoding of runtime monitoring operatorsusing using Pasttime LTL.
