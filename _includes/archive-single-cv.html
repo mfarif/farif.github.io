@@ -29,8 +29,13 @@
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
         {% endif %}
       </h3>
-      {% if post.venue%}<p class="archive__item-excerpt" itemprop="description">{{ post.citation }}</p> {% endif %}
-      {% if post.tool%}<p class="archive__item-excerpt" itemprop="description">{{ post.funding }}</p> {% endif %}
+
+      {% if post.venue%}
+      <p {{ post.citation }}</p>
+        {% endif %}
+        {% if post.tool%}
+      <p {{ post.funding }}</p>
+        {% endif %}
 
     </li>
   </article>
