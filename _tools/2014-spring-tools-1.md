@@ -1,6 +1,5 @@
 ---
-title: "VERDICT"
-tool: "Cyber Resiliency Verifier"
+title: "VERDICT (Cyber Resiliency Verifier)"
 collection: tools
 permalink: /tools/2014-spring-tools-1
 venue: "Defense Advanced Research Projects Agency (DARPA)"
