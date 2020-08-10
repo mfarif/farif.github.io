@@ -2,7 +2,7 @@
 type: "PHOENIX"
 tool: "SySLite (Syntax-Guided Past-time LTL Synthesizer & Enumerator)"
 collection: teaching
-agency: "Defense Advanced Research Projects Agency(DARPA)"
+agency: "Defense Advanced Research Projects Agency (DARPA)"
 permalink: /teaching/2015-spring-teaching-1
 ---
 
