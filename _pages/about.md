@@ -13,8 +13,7 @@ I am a Postdoc Researcher in
 at [The University of Iowa](https://cs.uiowa.edu/) and 
 [Cesare Tinelli](https://homepage.cs.uiowa.edu/~tinelli/) 
 and 
-[Omar Haider Chaudry](https://homepage.cs.uiowa.edu/~comarhaider/) advises me. Previously, I worked as a Security Researcher in [Mcafee Research Labs](https://www.mcafee.com/enterprise/en-us/threat-center/mcafee-labs.html). I received a Ph.D. from [University College Dublin (UCD)](https://www.ucd.ie/) 
-supervised by 
+[Omar Haider Chaudry](https://homepage.cs.uiowa.edu/~comarhaider/) advises me. Previously, I worked as a Security Researcher in [Mcafee Research Labs](https://www.mcafee.com/enterprise/en-us/threat-center/mcafee-labs.html). I received a Ph.D. from [University College Dublin (UCD)](https://www.ucd.ie/), supervised by 
 [Joao Marques-Silva](https://jpmarquessilva.github.io/).
 
 Research Interests
