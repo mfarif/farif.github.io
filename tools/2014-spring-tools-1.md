@@ -1,8 +1,8 @@
 ---
 title: "VERDICT"
 tool: "Cyber Resiliency Verifier"
-collection: teaching
-permalink: /teaching/2014-spring-teaching-1
+collection: tools
+permalink: /tools/2014-spring-tools-1
 agency: "Defense Advanced Research Projects Agency (DARPA)"
 ---
 
