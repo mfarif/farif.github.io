@@ -2,7 +2,7 @@
 title: "BEACON"
 tool: "Debugging EL+"
 collection: tools
-agency: "Science Foundation Ireland"
+venue: "Science Foundation Ireland"
 permalink: /tools/2015-spring-tools-1
 ---
 

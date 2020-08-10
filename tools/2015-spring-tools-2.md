@@ -2,7 +2,7 @@
 title: "PHOENIX"
 tool: "SySLite (Syntax-Guided Past-time LTL Synthesizer & Enumerator)"
 collection: tools
-agency: "Defense Advanced Research Projects Agency (DARPA)"
+venue: "Defense Advanced Research Projects Agency (DARPA)"
 permalink: /tools/2015-spring-tools-1
 ---
 
