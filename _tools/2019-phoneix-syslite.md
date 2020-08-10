@@ -1,6 +1,7 @@
 ---
 title: "SySLite (Syntax-Guided Past-time LTL Synthesizer & Enumerator)"
 tool : "syslite"
+date: 2020-02-30
 collection: tools
 permalink: /tools/2019-phoneix-syslite
 funding: "Defense Advanced Research Projects Agency (DARPA)"
