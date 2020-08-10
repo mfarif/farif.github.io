@@ -1,5 +1,5 @@
 ---
-project: "BEACON"
+type: "BEACON"
 tool: "Debugging EL+"
 collection: teaching
 agency: "Science Foundation Ireland"

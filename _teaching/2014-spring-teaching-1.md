@@ -1,5 +1,5 @@
 ---
-project: "VERDICT"
+type: "VERDICT"
 tool: "Cyber Resiliency Verifier"
 collection: teaching
 permalink: /teaching/2014-spring-teaching-1
