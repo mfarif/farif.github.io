@@ -160,7 +160,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  Tools:
+  tools:
     output: true
     permalink: /:collection/:path/
   talks:
