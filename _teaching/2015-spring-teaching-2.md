@@ -1,5 +1,5 @@
 ---
-type: "PHOENIX"
+title: "PHOENIX"
 tool: "SySLite (Syntax-Guided Past-time LTL Synthesizer & Enumerator)"
 collection: teaching
 agency: "Defense Advanced Research Projects Agency (DARPA)"
