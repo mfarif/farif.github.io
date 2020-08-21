@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Postdoctoral Researcher in 
 [Computational Logic Center](http://clc.cs.uiowa.edu/site/index.shtml)
-at [The University of Iowa](https://cs.uiowa.edu/), advised by 
+at [The University of Iowa](https://cs.uiowa.edu/) and advised by 
 [Cesare Tinelli](https://homepage.cs.uiowa.edu/~tinelli/) 
 and 
 [Omar Haider Chaudry](https://homepage.cs.uiowa.edu/~comarhaider/). Previously, I worked as a Security Researcher at [Mcafee  Labs](https://www.mcafee.com/blogs/other-blogs/mcafee-labs/). I received a Ph.D. from [University College Dublin (UCD)](https://www.ucd.ie/), supervised by 
