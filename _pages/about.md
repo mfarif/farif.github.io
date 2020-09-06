@@ -23,13 +23,12 @@ Research Interests
 [comment]: <> ([Automated Reasoning](https://plato.stanford.edu/entries/reasoning-automated/),) 
 [SAT](https://en.wikipedia.org/wiki/Boolean_satisfiability_problem)/[SMT](https://en.wikipedia.org/wiki/Satisfiability_modulo_theories),
 [Software Verification](https://en.wikipedia.org/wiki/Model_checking), 
-[comment]: <> ([DL](https://en.wikipedia.org/wiki/Description_logic),) 
 [Computer Security](https://en.wikipedia.org/wiki/Computer_security), and [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence)
 
 Previous Work Experience
 ======
-* McAfee Labs: Security Researcher 
-* TSSG ArcLabs: Research Engineer 
+* [McAfee Labs](https://www.mcafee.com/enterprise/en-us/threat-center/mcafee-labs.html): Security Researcher 
+* [TSSG ArcLabs](https://tssg.org/research/): Research Engineer 
   
 Publications
 ======
