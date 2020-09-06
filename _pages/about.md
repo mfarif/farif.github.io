@@ -29,7 +29,7 @@ Previous Work Experience
 * [McAfee Labs](https://www.mcafee.com/enterprise/en-us/threat-center/mcafee-labs.html): Security Researcher 
 * [TSSG ArcLabs](https://tssg.org/research/): Research Engineer 
   
-Publications
+Selected Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
