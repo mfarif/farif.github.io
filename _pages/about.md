@@ -19,19 +19,16 @@ and
 Research Interests
 ======
 [comment]: <> ([Automated Reasoning](https://plato.stanford.edu/entries/reasoning-automated/),) 
-[SAT](https://en.wikipedia.org/wiki/Boolean_satisfiability_problem)/[SMT](https://en.wikipedia.org/wiki/Satisfiability_modulo_theories), [Computer Security](https://en.wikipedia.org/wiki/Computer_security), [Software Verification](https://en.wikipedia.org/wiki/Model_checking), [AI](https://en.wikipedia.org/wiki/Artificial_intelligence)
+[SAT](https://en.wikipedia.org/wiki/Boolean_satisfiability_problem)/[SMT](https://en.wikipedia.org/wiki/Satisfiability_modulo_theories), [Computer Security](https://en.wikipedia.org/wiki/Computer_security), [Software Verification](https://en.wikipedia.org/wiki/Model_checking), and [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence)
 
 Previous Work Experience
 ======
 * McAfee Labs: Security Researcher 
-  * Duties included: Web and Application Security Research
-
 * TSSG ArcLabs: Research Engineer 
-  * Duties included: EU funded FP-7 research projects.
   
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
